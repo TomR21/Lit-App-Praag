@@ -1,0 +1,28 @@
+{
+    "total": 21,
+    "team1": 9,
+    "team2": 12,
+
+    "mensen": [
+        {
+            "name": "Tom",
+            "points": 5,
+            "team": 1
+        },
+        {
+            "name": "Mathijs",
+            "points": 4,
+            "team": 1
+        },
+        {
+            "name": "Jorrit",
+            "points": 10,
+            "team": 2
+        },
+        {
+            "name": "Ruben",
+            "points": 2,
+            "team": 2
+        }
+    ]
+}
